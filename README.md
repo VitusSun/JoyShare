@@ -15,7 +15,7 @@ Files sharing system that apply for meeting files sharing
 ####5.Mongoose for MongoDb
 
 <p align="center">
-  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/MEAN.jpg" width="500"/>
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/MEAN.jpg" width="800"/>
 </p>
 
 
