@@ -39,10 +39,16 @@ To get started with the CLI flow, fire up your terminal and run:
 npm install -g ionic
 ```
 
-Then, you can start a new ionic project by running:
+If you would like to use a visable Ionic GUI tool:
 
 ```bash
-ionic start yourprojectname
+download Ionic Lab for windows/Mac OS
+```
+
+With the help of Ionic Lab, you can see immediately the changing, after you changed your codes:
+
+```bash
+Using Editor Webstrom or other editors
 ```
 
 ## Build and Run 
