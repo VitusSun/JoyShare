@@ -14,6 +14,11 @@ Files sharing system that apply for meeting files sharing
 ####4.Express.js
 ####5.Mongoose for MongoDb
 
+<p align="center">
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/MEAN.jpg" width="500"/>
+</p>
+
+
 # What is Ionic?
 
 [Ionic](http://ionicframework.com/) is the open source HTML5 Mobile Framework for building amazing, cross-platform hybrid native apps and mobile websites with HTML, JavaScript, and CSS. If you know how to build or design websites, you will be able to build a real mobile app with Ionic!
