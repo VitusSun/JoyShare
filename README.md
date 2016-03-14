@@ -44,3 +44,23 @@ Then, you can start a new ionic project by running:
 ```bash
 ionic start yourprojectname
 ```
+
+## Build and Run 
+
+To add the platform
+
+```bash
+ionic platform android
+```
+
+To build 
+
+```bash
+ionic build android
+```
+
+To run (the best way to run it is directly on device android/ios phones,because emulator is extremely slow)
+
+```bash
+ionic run android
+```
