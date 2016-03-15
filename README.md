@@ -77,20 +77,20 @@ ionic run android
 ```
 #Add Cordova camera plugin using ionic Lab
 
-1.Create ionic framework sample using the below ionic lab, here we are creating ionic project
+####1.Create ionic framework sample using the below ionic lab, here we are creating ionic project
 
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/create-ionic-project.jpg" width="500"/>
 </p>
 
-2.Then add the android and iOS platforms using the below ionic commands.
+####2.Then add the android and iOS platforms using the below ionic commands.
 
 ```bash
 ionic platform add android
 ionic platform add ios
 ```
 
-3.Next in this application we are integrating ngCordova library, if you are new to ngCordova framework here is simple description
+####3.Next in this application we are integrating ngCordova library, if you are new to ngCordova framework here is simple description
 
 ###What is ng-Cordova?
 
@@ -105,7 +105,7 @@ Add the ng-cordova.min.js reference above to the cordova.js file in the index.ht
     <script src="js/ng-cordova.min.js"></script>
 ```
 
-4.ng-cordova integration is still not over, now we need to include it for use in AngularJS.  Open your app.js file and alter the angular.module line to look like the following.
+####4.ng-cordova integration is still not over, now we need to include it for use in AngularJS.  Open your app.js file and alter the angular.module line to look like the following.
 
 ```bash
 var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.routes', 'app.services', 'app.directives'])
@@ -113,13 +113,13 @@ var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.ro
 
 ### Adding Codova plugin camera
 
-5.The next thing we want to do is add the Apache Cordova camera plugin. This can be done by running the following step using ionic lab.
+####5.The next thing we want to do is add the Apache Cordova camera plugin. This can be done by running the following step using ionic lab.
 
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/add-camera-plugin.jpg" width="700"/>
 </p>
 
-6. In camera.html set buttons and actions
+####6. In camera.html set buttons and actions
     /JoyShare/www/templates/
 
 ```bash
@@ -151,7 +151,7 @@ var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.ro
   </ion-pane>
 ```
 
-7.Creating a controller in app.js file
+####7.Creating a controller in app.js file
 
 ```bash
  app.controller("ExampleController", function ($scope, $cordovaCamera) {
