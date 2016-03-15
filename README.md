@@ -100,10 +100,7 @@ Then, start downloading the latest ngcordvao library and place the ng-cordova.mi
 
 Add the ng-cordova.min.js reference above to the cordova.js file in the index.html as mentioned in the below.
 
-<!-- cordova script (this will be a 404 during development) -->
+```bash
     <script src="cordova.js"></script>
     <script src="js/ng-cordova.min.js"></script>
-
-    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
-    <link href="css/ionic.app.css" rel="stylesheet">
-    -->
+```
