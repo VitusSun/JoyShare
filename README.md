@@ -120,6 +120,7 @@ var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.ro
 </p>
 
 6. In camera.html set buttons and actions
+    /JoyShare/www/templates/
 
 ```bash
   <ion-pane>
