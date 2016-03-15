@@ -77,20 +77,20 @@ ionic run android
 ```
 #Add Cordova camera plugin using ionic Lab
 
-1. Create ionic framework sample using the below ionic lab, here we are creating ionic project
+1.Create ionic framework sample using the below ionic lab, here we are creating ionic project
 
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/create-ionic-project.jpg" width="500"/>
 </p>
 
-2. Then add the android and iOS platforms using the below ionic commands.
+2.Then add the android and iOS platforms using the below ionic commands.
 
 ```bash
 ionic platform add android
 ionic platform add ios
 ```
 
-3. Next in this application we are integrating ngCordova library, if you are new to ngCordova framework here is simple description
+3.Next in this application we are integrating ngCordova library, if you are new to ngCordova framework here is simple description
 
 ###What is ng-Cordova?
 
