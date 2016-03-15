@@ -118,3 +118,35 @@ var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.ro
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/add-camera-plugin.jpg" width="700"/>
 </p>
+
+6. In camera.html set buttons and actions
+
+```bash
+  <ion-pane>
+    <ion-content ng-controller="ExampleController" padding="true">
+      <img ng-show="imgURI !== undefined" ng-src="{{imgURI}}" style="text-align: center">
+      <button class="button button-full button-assertive" ng-click="takePhoto()">
+        Take Photo
+      </button>
+      <button class="button button-full button-assertive" ng-click="choosePhoto()">
+        Choose Photo
+      </button>
+
+      <div class="list ">
+        <label class="item item-input">
+          <span class="input-label">First Name:</span>
+          <input type="text" name="name" value="John"/>
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Last Name:</span>
+          <input type="text" name="name" value="Doe"/>
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Age:</span>
+          <input type="text" name="birth" value="01.01.1988"/>
+        </label>
+      </div>
+    </ion-content>
+  </ion-pane>
+```
+
