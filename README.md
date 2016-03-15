@@ -92,7 +92,7 @@ ionic platform add ios
 
 3. Next in this application we are integrating ngCordova library, if you are new to ngCordova framework here is simple description
 
-What is ng-Cordova?
+###What is ng-Cordova?
 
 “ngCordova is a collection of AngularJS services and extensions created by Ionic and driven by the community. These services make it easier to integrate Cordova plugins into Ionic applications”
 
