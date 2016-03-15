@@ -110,3 +110,11 @@ Add the ng-cordova.min.js reference above to the cordova.js file in the index.ht
 ```bash
 var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.routes', 'app.services', 'app.directives'])
 ```
+
+### Adding Codova plugin camera
+
+5.The next thing we want to do is add the Apache Cordova camera plugin. This can be done by running the following step using ionic lab.
+
+<p align="center">
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/add-camera-plugin.jpg" width="700"/>
+</p>
