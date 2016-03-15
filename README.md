@@ -90,7 +90,7 @@ ionic platform add android
 ionic platform add ios
 ```
 
-####3.Next in this application we are integrating ngCordova library, if you are new to ngCordova framework here is simple description
+####3.Next in this application we are integrating ngCordova library
 
 ###What is ng-Cordova?
 
@@ -105,7 +105,7 @@ Add the ng-cordova.min.js reference above to the cordova.js file in the index.ht
     <script src="js/ng-cordova.min.js"></script>
 ```
 
-####4.ng-cordova integration is still not over, now we need to include it for use in AngularJS.  Open your app.js file and alter the angular.module line to look like the following.
+####4.Now open your app.js file and alter the angular.module line to look like the following.
 
 ```bash
 var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.routes', 'app.services', 'app.directives'])
@@ -120,7 +120,7 @@ var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.ro
 </p>
 
 ####6. In camera.html set buttons and actions
-    /JoyShare/www/templates/
+    [/JoyShare/www/templates/](https://github.com/yesuntianyi/JoyShare/tree/master/www/templates)
 
 ```bash
   <ion-pane>
