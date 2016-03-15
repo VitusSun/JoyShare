@@ -75,3 +75,10 @@ To run (the best way to run it is directly on device android/ios phones,because 
 ```bash
 ionic run android
 ```
+#Add Cordova camera plugin using ionic Lab
+
+Next create ionic framework sample using the below ionic lab, here we are creating ionic project
+
+<p align="center">
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/create-ionic-project.jpg" width="500"/>
+</p>
