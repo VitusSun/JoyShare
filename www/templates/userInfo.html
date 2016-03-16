@@ -12,12 +12,10 @@
         <div class="spacer" style="width: 300px; height: 33px;"></div>
         <a ui-sref="tabsController.editYourInfos" id="userInfo-button10" class="button button-stable  button-block icon ion-android-person">Personal Infos</a>
         <a ui-sref="tabsController.settingPage" id="userInfo-button13" class="button button-stable  button-block icon ion-android-settings">Setting</a>
-      <div class="list">
-        <a class="item item-icon-left" href="#">
-          <i class="icon ion-email"></i>
-          Check mail
-        </a>
-
+      <div class="list"ng-controller="sendEmailCtrl">
+        <button class="button button-full button-balanced" ng-click="sendEmail()">
+          Send Email
+        </button>
         <a class="item item-icon-left item-icon-right" href="#">
           <i class="icon ion-chatbubble-working"></i>
           Call Me
