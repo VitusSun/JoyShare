@@ -75,6 +75,11 @@ To run (the best way to run it is directly on device android/ios phones,because 
 ```bash
 ionic run android
 ```
+
+# Using Express.js
+
+# Using MongoDB and Mongoose
+
 #Add Cordova camera plugin using ionic Lab
 
 ####1.Create ionic framework sample using the below ionic lab, here we are creating ionic project
