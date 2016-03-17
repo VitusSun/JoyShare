@@ -108,7 +108,7 @@ ionic platform add ios
 
 ###What is ng-Cordova?
 
-“ngCordova is a collection of AngularJS services and extensions created by Ionic and driven by the community. These services make it easier to integrate Cordova plugins into Ionic applications”
+“[ngCordova](http://ngcordova.com/) is a collection of [AngularJS](http://angularjs.org/) services and extensions created by Ionic and driven by the community. These services make it easier to integrate Cordova plugins into Ionic applications”
 
 Then, start downloading the latest ngcordvao library and place the ng-cordova.min.js file in your project’s www/js directory.
 
