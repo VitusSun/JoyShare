@@ -78,6 +78,15 @@ ionic run android
 
 # Using Express.js
 
+Before you will install express.js, you have to install node.js and npm command line tools
+
+## What is Node.js
+Node.js is an open-source,cross-platform runtim environment for developing server-side Web applications. It is not a JavaScript framework, aber many of its basic modules are written in js.
+
+Download [Node.js](https://nodejs.org/en/download/) according to the version of your operating system
+
+
+
 # Using MongoDB and Mongoose
 
 #Add Cordova camera plugin using ionic Lab
