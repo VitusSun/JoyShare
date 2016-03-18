@@ -8,11 +8,21 @@ Files sharing system that apply for meeting files sharing and real time files ed
 
 #APP's Architecture
 
-### Connection Architecture of UI and Server
+### 1. Connection Architecture of UI and Server
 
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/UI-Server-Architectur.jpeg" width="800"/>
 </p>
+
+### 2. APP's Functions Architecture
+
+a. Three controll tabs (Cloud,Share and Personal) on the bottom of the screen
+
+<p align="center">
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/tabsController.png.jpeg" width="400"/>
+</p>
+
+
 
 #Frameworks
 
