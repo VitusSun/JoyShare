@@ -19,7 +19,7 @@ Files sharing system that apply for meeting files sharing and real time files ed
 a. Three controll tabs (Cloud,Share and Personal) on the bottom of the screen
 
 <p align="center">
-  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/tabsController.png.jpeg" width="400"/>
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/tabsController.png" width="400"/>
 </p>
 
 
