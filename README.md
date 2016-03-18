@@ -25,7 +25,7 @@ a. Three controll tabs (Cloud,Share and Personal) on the bottom of the screen
 b. Workflows of Page "Cloud"
 
 <p align="center">
-  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/cloudPage.png" width="800"/>
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/cloudPage.jpg" width="700"/>
 </p>
 
 #Frameworks
