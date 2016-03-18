@@ -273,3 +273,38 @@ cordova plugin add https://github.com/katzer/cordova-plugin-email-composer.git
 Send mail
 </button>
 ```
+
+#### 3. Add the function to your controller 
+
+```bash
+app.controller('sendEmailCtrl', function($cordovaEmailComposer, $scope) {
+    $cordovaEmailComposer.isAvailable().then(function() {
+      // is available
+      alert("available");
+    }, function () {
+      // not available
+      alert("not available");
+    });
+    $scope.sendEmail = function(){
+      var email = {
+        to: 'receiver@example.com',
+        cc: 'Peter@example.com',
+        bcc: ['tim@joe.com', 'lily@joe.com'],
+        attachments: [
+          'file://img/Picture-12-03.2016.png',
+          'res://icon.png',
+          'base64:icon.png//iVBORw0KGgoAAAANSUhEUg...',
+          'file://README.pdf'
+        ],
+        subject: 'I have shared image-12.03.2016.jpg to you',
+        body: 'How are you? Nice greetings from Peter,I have shared image-12.03.2016.jpg to you!',
+        isHtml: true
+      };
+
+      $cordovaEmailComposer.open(email).then(null, function () {
+        // user cancelled email
+      });
+    }
+  });
+
+```
