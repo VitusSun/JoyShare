@@ -163,7 +163,7 @@ var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.ro
 
 ```bash
   <ion-pane>
-    <ion-content ng-controller="ExampleController" padding="true">
+    <ion-content ng-controller="PictureController" padding="true">
       <img ng-show="imgURI !== undefined" ng-src="{{imgURI}}" style="text-align: center">
       <button class="button button-full button-assertive" ng-click="takePhoto()">
         Take Photo
@@ -193,7 +193,7 @@ var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.ro
 ####7.Creating a controller in app.js file
 
 ```bash
- app.controller("ExampleController", function ($scope, $cordovaCamera) {
+ app.controller("PictureController", function ($scope, $cordovaCamera) {
 
     $scope.takePhoto = function () {
       var options = {
@@ -236,4 +236,6 @@ var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.ro
     }
   });
 ```
-
+<p align="center">
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/afterPic.png" width="270"/>
+</p>
