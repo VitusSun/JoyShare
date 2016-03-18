@@ -6,6 +6,14 @@ Files sharing system that apply for meeting files sharing and real time files ed
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/userinfo.jpg" width="270"/>
 </p>
 
+#APP's Architecture
+
+### Connection Architecture of UI and Server
+
+<p align="center">
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/UI-Server-Architectur.jpeg" width="800"/>
+</p>
+
 #Frameworks
 
 #### 1.  Ionic
