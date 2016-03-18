@@ -28,6 +28,18 @@ b. Workflows of Page "Cloud"
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/cloudPage.jpg" width="700"/>
 </p>
 
+c. Workflows of Page "Share"
+
+<p align="center">
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/sharePage.jpg" width="700"/>
+</p>
+
+d. Workflows of Page "Personal"
+
+<p align="center">
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/userinfoPage.jpg" width="700"/>
+</p>
+
 #Frameworks
 
 #### 1.  Ionic
