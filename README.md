@@ -257,3 +257,19 @@ var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.ro
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/afterPic.png" width="270"/>
 </p>
+
+# Implementation of send Email using Ionic framework
+
+#### 1. Add the email plugin
+
+```bash
+cordova plugin add https://github.com/katzer/cordova-plugin-email-composer.git
+```
+
+#### 2. Add following code in "sendMail.html"
+
+```bash
+<button ng-click="sendEmail()" class="button button-icon icon ion-email">
+Send mail
+</button>
+```
