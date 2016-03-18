@@ -28,6 +28,12 @@ b. Workflows of Page "Cloud"
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/cloudPage.jpg" width="700"/>
 </p>
 
+The next step will be done (ToDo)
+
+<p align="center">
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/firstPage-TODO.png" width="300"/>
+</p>
+
 c. Workflows of Page "Share"
 
 <p align="center">
