@@ -54,6 +54,8 @@ d. Workflows of Page "Personal",after user logout, for the new user who can crea
 
 #Frameworks
 
+All using commands are applied for Windows PC
+
 #### 1.  Ionic
 #### 2.  Node.js
 #### 3.  Angular.Js
