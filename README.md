@@ -54,7 +54,7 @@ d. Workflows of Page "Personal",after user logout, for the new user who can crea
 
 #Frameworks
 
-All using commands are applied for Windows PC
+All the following using commands are applied for Windows PC -- please use CMD command to open windows console
 
 #### 1.  Ionic
 #### 2.  Node.js
