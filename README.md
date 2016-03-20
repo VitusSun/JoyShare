@@ -313,8 +313,6 @@ app.controller('sendEmailCtrl', function($cordovaEmailComposer, $scope) {
         bcc: ['tim@joe.com', 'lily@joe.com'],
         attachments: [
           'file://img/Picture-12-03.2016.png',
-          'res://icon.png',
-          'base64:icon.png//iVBORw0KGgoAAAANSUhEUg...',
           'file://README.pdf'
         ],
         subject: 'I have shared image-12.03.2016.jpg to you',
