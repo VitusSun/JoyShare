@@ -40,7 +40,7 @@ c. Workflows of Page "Share"
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/sharePage.jpg" width="700"/>
 </p>
 
-d. Workflows of Page "Personal"
+d. Workflows of Page "Personal",after user logout, for the new user who can create a new account on the signup page.
 
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/userinfoPage.jpg" width="700"/>
