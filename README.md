@@ -46,6 +46,12 @@ d. Workflows of Page "Personal",after user logout, for the new user who can crea
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/userinfoPage.jpg" width="700"/>
 </p>
 
+### 3. IDE(WebStorm) Architecture
+
+<p align="center">
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/file-directory.jpg" width="300"/>
+</p>
+
 #Frameworks
 
 #### 1.  Ionic
