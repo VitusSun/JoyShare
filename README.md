@@ -145,8 +145,14 @@ npm rm -g express-generator
 ### Run express.js
 
 ```bash
-express yourprojectname
+ /yourprojectname: npm start
 ```
+[http://localhost:3000/]
+
+<p align="center">
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/express-localhost.jpg" width="500"/>
+</p>
+
 
 # Using MongoDB and Mongoose
 
