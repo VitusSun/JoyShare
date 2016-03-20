@@ -279,8 +279,11 @@ var app = angular.module('app', ['ionic', 'ngCordova','app.controllers', 'app.ro
     }
   });
 ```
+#### 8.After you clicked button " Take Photo" or "Choose Photo"
+
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/afterPic.png" width="270"/>
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/choose_Pic.png" width="270"/>
 </p>
 
 # Implementation of send Email using Ionic framework
