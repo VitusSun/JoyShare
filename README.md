@@ -340,7 +340,7 @@ app.controller('sendEmailCtrl', function($cordovaEmailComposer, $scope) {
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/userInfo_sendemail.png" width="270"/>
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/openEmail.png" width="270"/>
-  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/typeEmail.png" width="270"/>
+  <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/sendEmailToTim.png" width="270"/>
 </p>
 
 # This project is not finished, it will be continued developed.
