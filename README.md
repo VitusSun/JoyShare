@@ -127,10 +127,25 @@ Download [Node.js](https://nodejs.org/en/download/) according to the version of 
 
 ### Install or remove express.js
 
+```bash
+npm install -g express-generator
+```
+to remove express.js
+
+```bash
+npm rm -g express-generator
+```
+
 ### Run express.js
 
+```bash
+express yourprojectname
+```
 
 # Using MongoDB and Mongoose
+
+I am considering about the difference between Mongodb and Firedase.
+Which is better for this APP as backend.
 
 #Add Cordova camera plugin using ionic Lab
 
