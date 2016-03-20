@@ -1,5 +1,5 @@
 # JoyShare
-Files sharing system that apply for meeting files sharing and real time files editing in small groups or company internal environment using a safe ownCloud server 
+Files sharing system that will be applied for meeting files sharing and real time files editing in small groups or company internal environment using a safe ownCloud server 
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/files.jpg" width="270"/>
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/share.jpg" width="270"/>
