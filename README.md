@@ -147,7 +147,7 @@ npm rm -g express-generator
 ```bash
  /yourprojectname: npm start
 ```
-[http://localhost:3000/]
+To access you localhost:3000 to get your services(http://localhost:3000/)
 
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/express-localhost.jpg" width="500"/>
