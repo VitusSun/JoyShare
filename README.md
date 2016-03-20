@@ -145,7 +145,7 @@ npm rm -g express-generator
 ```bash
  /yourprojectname: npm start
 ```
-To access you localhost:3000 getting your services [http://localhost:3000/](http://localhost:3000/)
+To access your localhost:3000 getting your services [http://localhost:3000/](http://localhost:3000/)
 
 <p align="center">
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/express-localhost.jpg" width="500"/>
@@ -331,3 +331,5 @@ app.controller('sendEmailCtrl', function($cordovaEmailComposer, $scope) {
   });
 
 ```
+
+# This project is not finished, it will be continued developed.
