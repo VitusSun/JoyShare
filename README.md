@@ -343,4 +343,9 @@ app.controller('sendEmailCtrl', function($cordovaEmailComposer, $scope) {
   <img src="https://github.com/yesuntianyi/JoyShare/blob/master/JoyShare_screenshot/sendEmailToTim.png" width="270"/>
 </p>
 
+#APP's adaptations
+
+#### 1. for the screen size, I will set different .png pictures to adapt different devices.
+#### 2. Now, this APP on different devices according to different mobile operationg system was not tested, but it works perfect on android devices that OS is above 4.4.2
+
 # This project is not finished, it will be continued developed.
